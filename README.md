@@ -1,6 +1,5 @@
 # NFDRS4-TechDoc
-Technical Document analyses for NFDRS Version 4.0 publication
-Here we provide a set of Jupyter Notebooks that demonstrate the comparisons and analysis used to the develop the technical publication for the US National Fire Danger Rating System Version 4.0. 
+Here we provide a set of Jupyter Notebooks that demonstrate the comparisons and analysis used to the develop the technical publication for the US National Fire Danger Rating System Version 4.0. These workbooks produce most of the analyses and statistics reported in the final publication. 
 
 ## Growing Season Index-based live fuel moisture model
 The GSI-based live fuel moisture content model used in NFDRS Version 4.0 is presented in this workbook: [GSI-LFMC Model](NFDRSV4-LiveFuelMoistureEvaluation-Calibration.ipynb)
