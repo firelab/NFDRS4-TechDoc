@@ -9,3 +9,5 @@ Figures/
 __pycache__/
 .ipynb_checkpoints/
 Lolo241513YIndexOutput.csv
+outputs/FuelMoistureComparisons_3Grid.png
+outputs/CombinedGSILFMPlot.png
