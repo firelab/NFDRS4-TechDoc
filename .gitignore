@@ -11,3 +11,5 @@ __pycache__/
 Lolo241513YIndexOutput.csv
 outputs/FuelMoistureComparisons_3Grid.png
 outputs/CombinedGSILFMPlot.png
+outputs/FuelModelHierClust.png
+outputs/FuelModelCorrelogram.png

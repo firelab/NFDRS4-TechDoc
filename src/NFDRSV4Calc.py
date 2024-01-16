@@ -464,7 +464,6 @@ class USNFDRSFuelModel:
             self.WNDFC = 0.4
             self.DROUGHT = 1
         elif self.FMCode == "X":  # Grass
-            print("X")
             self.SG1 = 2000
             self.SG10 = 109
             self.SG100 = 30
