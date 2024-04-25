@@ -1,10 +1,10 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 authors:
-- family-names: "Matt"
-  given-names: "Jolly"
-- family-names: "Stuart"
-  given-names: "Brittan"
+- family-names: "Jolly"
+  given-names: "Matt"
+- family-names: "Brittan"
+  given-names: "Stuart"
 title: "My Research Software"
 version: 1.0.0
 date-released: 2024-04-25
