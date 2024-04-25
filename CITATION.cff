@@ -3,9 +3,11 @@ message: "If you use this software, please cite it as below."
 authors:
 - family-names: "Jolly"
   given-names: "Matt"
+- family-names: "Freeborn"
+  given-names: "Patrick"
 - family-names: "Brittan"
   given-names: "Stuart"
-title: "My Research Software"
+title: "NFDRS4 TechDoc Repo"
 version: 1.0.0
 date-released: 2024-04-25
 url: "https://github.com/firelab/NFDRS4-TechDoc"
